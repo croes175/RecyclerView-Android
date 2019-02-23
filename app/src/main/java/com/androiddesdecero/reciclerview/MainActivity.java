@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private RecyclerView listaPesos;
     private PesoAdaptador adaptador;
 
-/*travieso */
+/*travieso 1*/
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
